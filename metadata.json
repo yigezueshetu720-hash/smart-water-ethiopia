@@ -1,0 +1,6 @@
+{
+  "name": "AAWSA Smart Water Web App",
+  "description": "Addis Ababa Water and Sewerage Authority (AAWSA) Smart Water platform. Track live water rationing schedules across 11 sub-cities, inspect itemized water bills and pay online via Telebirr, CBE Birr & Google Pay, report pipeline leaks with photo evidence, and build condominium water monitoring applets.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
